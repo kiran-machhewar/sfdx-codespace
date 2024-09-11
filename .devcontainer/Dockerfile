@@ -1,1 +1,1 @@
-FROM salesforce/cli
+FROM salesforce/cli:latest-rc-slim
